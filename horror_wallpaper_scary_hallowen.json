@@ -29,21 +29,21 @@
   [
     {
       "id":1,
-      "title":"Wolf Wallpaper Parallax 4K",
-      "image":"https://drive.google.com/uc?id=1RdMlEzcO7a3ndxGOqQwfKx5iL8lzbgak",
-      "link":"https://play.google.com/store/apps/details?id=com.wallpaper4you.wolf_wallpaper_parallax_and_live_wallpaper"
+      "title":"Blue Koala Wallpaper HD",
+      "image":"http://gststudio.web.id/MoreApp/koala3.png",
+      "link":"https://play.google.com/store/apps/details?id=com.wallpaper4you.cute_blue_koala_stitchwallpaper_hd"
     },
     {
       "id":2,
-      "title":"Sad Anime Girls Wallpapers 4K",
-      "image":"https://drive.google.com/uc?id=10q9UVUSLfctj39E5SIMtdrQq12xxB__X",
-      "link":"https://play.google.com/store/apps/details?id=com.wallpaper4you.sad_anime_girls_wallpaper_alone_aesthetic"
+      "title":"Cinnamoroll Wallpapers HD",
+      "image":"http://gststudio.web.id/MoreApp/icon_cinnamoroll_1.png",
+      "link":"https://play.google.com/store/apps/details?id=com.wallpaper4you.wallpaper_sanrio_cinnamoroll_cute"
     },
     {
       "id":3,
-      "title":"Konoha Ninja Anime Wallpaper HD 4K",
-      "image":"https://drive.google.com/uc?id=1D81z4k4wH_4wP9XNDEJ865C5TteHIp6A",
-      "link":"https://play.google.com/store/apps/details?id=com.wallpaper4you.ninja_konoha_wallpaper_itachi_kakashi_hd"
+      "title":"Cute Kuromi Wallpaper HD",
+      "image":"http://gststudio.web.id/MoreApp/icon_kuromi.png",
+      "link":"https://play.google.com/store/apps/details?id=com.wallpaper4you.cute_kuromi_sanrio_wallpaper_hd"
     },
     {
       "id":4,
@@ -92,6 +92,24 @@
       "title":"Fantasy Girl Wallpapers 4K",
       "image":"https://drive.google.com/uc?id=1udVlcw4JnMdy5Unc6vwYKlV4v-HfMDie",
       "link":"https://play.google.com/store/apps/details?id=com.wallpaper4you.fantasy_girls_anime_beautiful"
+    },
+{
+      "id":12,
+      "title":"Wolf Wallpaper Parallax 4K",
+      "image":"https://drive.google.com/uc?id=1RdMlEzcO7a3ndxGOqQwfKx5iL8lzbgak",
+      "link":"https://play.google.com/store/apps/details?id=com.wallpaper4you.wolf_wallpaper_parallax_and_live_wallpaper"
+    },
+    {
+      "id":13,
+      "title":"Sad Anime Girls Wallpapers 4K",
+      "image":"https://drive.google.com/uc?id=10q9UVUSLfctj39E5SIMtdrQq12xxB__X",
+      "link":"https://play.google.com/store/apps/details?id=com.wallpaper4you.sad_anime_girls_wallpaper_alone_aesthetic"
+    },
+    {
+      "id":14,
+      "title":"Konoha Ninja Anime Wallpaper HD 4K",
+      "image":"https://drive.google.com/uc?id=1D81z4k4wH_4wP9XNDEJ865C5TteHIp6A",
+      "link":"https://play.google.com/store/apps/details?id=com.wallpaper4you.ninja_konoha_wallpaper_itachi_kakashi_hd"
     }
   ],
 
